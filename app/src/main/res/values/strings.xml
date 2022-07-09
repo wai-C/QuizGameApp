@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">QuizGame</string>
+
+    <string name="login_fragment_user_email">Email</string>
+    <string name="login_fragment_user_pw">Password</string>
+    <string name="login_fragment_user_login">LOGIN</string>
+    <string name="login_fragment_user_login_email">Please check your email!</string>
+    <string name="login_fragment_user_login_google">Successfully login with google!</string>
+    <string name="login_fragment_user_login_error">Fail to login!</string>
+    <string name="login_fragment_user_forgot_pw"><font color='#12EFDB'>Forgot Password</font></string>
+    <string name="login_fragment_user_sign_up">Do not have an account? <font color='#12EFDB'>Sign Up</font></string>
+
+    <string name="signup_fragment_title">Sign Up</string>
+    <string name="signup_fragment_confirm">Confirm</string>
+    <string name="signup_fragment_msg">Sign up successful!</string>
+    <string name="signup_fragment_msg_error">Fail to sign up!</string>
+
+    <string name="forgot_fragment_title">Forgot Password</string>
+    <string name="forgot_fragment_send_email">Send Email</string>
+    <string name="forgot_fragment_sent_msg">Please check your email!</string>
+    <string name="forgot_fragment_sent_msg_error">Please try to reset your password later!</string>
+
+    <string name="game_fragment_user_start">START QUIZ</string>
+    <string name="game_fragment_user_sign_out">Sign Out</string>
+
+    <string name="quiz_fragment_correct_ans">Correct:</string>
+    <string name="quiz_fragment_wrong_ans">Wrong:</string>
+    <string name="quiz_fragment_btn_next_q">NEXT QUESTION</string>
+    <string name="quiz_fragment_btn_finish_g">FINISH GAME</string>
+
+    <string name="game_fragment_ans_msg">You answered all questions</string>
+    <string name="game_fragment_finish_msg"> Don\'t have question anymore</string>
+    <string name="game_fragment_finish_score">New Score Saved!</string>
+    <string name="game_fragment_finish_game_msg">Time is up!</string>
+
+    <string name="res_fragment_highest">Highest:</string>
+    <string name="res_fragment_correct">Correct Answer:</string>
+    <string name="res_fragment_wrong">Wrong Answer:</string>
+    <string name="res_fragment_btn_play_again">Play again!</string>
+    <string name="res_fragment_btn_quit">Quit!</string>
+</resources>
